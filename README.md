@@ -11,9 +11,7 @@ The following is the first version of a taxonomy of projects in the ethereum eco
 
 ### Ethereum Stack
 Note that all the projects mentioned serve as examples only of each layer.
-<p align="center">
-  <img src="/figures/ethercosystem.ong" width="400"/>
-</p>
+![Ethercosystem Taxonomy](https://github.com/EthereumCommunityFund/ethereum-ecosystem-map/blob/master/figures/ethercosystem.png)
 
 ### End User Applications
 
