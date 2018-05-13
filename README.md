@@ -10,8 +10,9 @@ Taxonomies are an useful way of presenting information in a visual and concise m
 The following is the first version of a taxonomy of projects in the ethereum ecosystem.
 
 ### Ethereum Stack
+Note that all the projects mentioned serve as examples only of each layer.
 <p align="center">
-  <img src="/fugures/ethercosystem.ong" width="350"/>
+  <img src="/figures/ethercosystem.ong" width="400"/>
 </p>
 
 ### End User Applications
