@@ -16,8 +16,8 @@ For illustration purposes, the following is one of the first iterations of a tax
 ![Ethercosystem Taxonomy](https://github.com/EthereumCommunityFund/ethereum-ecosystem-map/blob/master/figures/ethercosystem.png)
 
 ## Frequently Visited Sources
-[ethereum wiki]: https://github.com/ethereum/wiki/wiki "Ethereum Wiki"
-[ethresearch]:  https://ethresear.ch/latest "ETH Research"
+[1]: https://github.com/ethereum/wiki/wiki "Ethereum Wiki"
+[2]: https://ethresear.ch/latest "ETH Research"
 
 ## Table of Contents
 0. [How to Contribute?](#how-to-contribute)
@@ -30,13 +30,18 @@ For illustration purposes, the following is one of the first iterations of a tax
 7. [Development Infrastructure](#development-infrastructure)
 8. [Development Tooling](#development-tooling)
 9. [Application Specific Protocols](#application-specific-protocols)
-10.[Wallets & Account management](#wallets-and-account-management)
-11.[End User Applications](#end-user-applications)
-12.[Off-Chain Utilities](#off-chain-utilities)
+10. [Wallets & Account management](#wallets-and-account-management)
+11. [End User Applications](#end-user-applications)
+12. [Off-Chain Utilities](#off-chain-utilities)
 
 ### How to Contribute?
 
 ### Hardware
+Any development or research concerning hardware and hardware software.
+Project | Language (if applicable) | Link
+------- | ------------------------ | ----
+CPU Miner | C++ | https://github.com/ethereum/go-ethereum/wiki/Mining
+GPU Miner | ? | https://github.com/ethereum/go-ethereum/wiki/Mining
 
 ### Networking
 
