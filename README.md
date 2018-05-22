@@ -10,10 +10,14 @@ For grant managers at the ECF, this overview can be helpful for prioritising res
 ## Taxonomy (V.0.2)
 Taxonomies are an useful way of presenting information in a visual and concise manner. Nonetheless, they are not perfect, as there will always be projects or cases that do not fit limitedly to one layer, as well as others that fit at the same time in more than one layer. 
 For illustration purposes, the following is one of the first iterations of a taxonomy of projects in the ethereum ecosystem.
-<aside class="notice">
-Note that all the projects mentioned serve as examples only of each layer, by no means are these mentions any kind of endorsement.
-</aside>
+
+> Note that all the projects mentioned serve as examples only of each layer, *by no means are these mentions any kind of endorsement*.
+
 ![Ethercosystem Taxonomy](https://github.com/EthereumCommunityFund/ethereum-ecosystem-map/blob/master/figures/ethercosystem.png)
+
+## Frequently Visited Sources
+[ethereum wiki]: https://github.com/ethereum/wiki/wiki "Ethereum Wiki"
+[ethresearch]:  https://ethresear.ch/latest "ETH Research"
 
 ## Table of Contents
 0. [How to Contribute?](#how-to-contribute)
@@ -55,4 +59,3 @@ Note that all the projects mentioned serve as examples only of each layer, by no
 ### End User Applications
 
 ### Off-Chain Utilities
-
