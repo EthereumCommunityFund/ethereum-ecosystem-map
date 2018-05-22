@@ -38,20 +38,46 @@ For illustration purposes, the following is one of the first iterations of a tax
 
 ### Hardware
 Any development or research concerning hardware and hardware software.
-Project | Language (if applicable) | Link
-------- | ------------------------ | ----
-CPU Miner | C++ | https://github.com/ethereum/go-ethereum/wiki/Mining
-GPU Miner | ? | https://github.com/ethereum/go-ethereum/wiki/Mining
+| Project   | Language (if applicable) | Link                                                |
+|-----------|--------------------------|-----------------------------------------------------|
+| CPU Miner | C++                      | https://github.com/ethereum/go-ethereum/wiki/Mining |
+| GPU Miner | ?                        | https://github.com/ethereum/go-ethereum/wiki/Mining |
 
 ### Networking
+| Project | Language | Link                                                     |
+|---------|----------|----------------------------------------------------------|
+| ÐΞVp2p  | ?        | https://github.com/ethereum/devp2p/blob/master/discv4.md |
 
 ### Consensus
+| Project      | Language | Link                                                                       |
+|--------------|----------|----------------------------------------------------------------------------|
+| Casper (PoS) | ?        | https://github.com/ethereum/wiki/wiki/Casper-Proof-of-Stake-compendium     |
+| Sharding     | ?        | https://github.com/ethereum/wiki/wiki/Sharding-introduction-R&D-compendium |
 
 ### Deterministic State Machines
+| Project       | Language    | Link                                         |
+|---------------|-------------|----------------------------------------------|
+| EVM           | go          | https://github.com/ethereum/go-ethereum      |
+| py-EVM        | python      | https://github.com/pipermerriam/py-evm       |
+| EthereumJ     | java        | https://github.com/ethereum/ethereumj        |
+| SputnikVM     | rust        | https://github.com/ethereumproject/sputnikvm |
+| K Framework   | K framework | https://github.com/kframework/evm-semantics  |
+| hevm          | haskell     | https://github.com/dapphub/hevm              |
+| Burrow        | go          | https://github.com/hyperledger/burrow        |
+| Ethereumjs-VM | javascript  | https://github.com/ethereumjs/ethereumjs-vm  |
+| sputter       | clojure     | https://github.com/nervous-systems/sputter   |
+| eWASM kernel  | javascript  | https://github.com/ewasm/ewasm-kernel        |
 
 ### Interoperability
 
 ### Usability
+| Project       | Language   | Link                                        |
+|---------------|------------|---------------------------------------------|
+| Geth          | go         | https://github.com/ethereum/go-ethereum     |
+| Parity        | rust       | https://github.com/paritytech/parity        |
+| cpp-ethereum  | c++        | https://github.com/ethereum/cpp-ethereum    |
+| py-evm        | python     | https://github.com/ethereum/py-evm          |
+| ethereumjs-vm | javascript | https://github.com/ethereumjs/ethereumjs-vm |
 
 ### Development Infrastructure
 
