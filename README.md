@@ -54,6 +54,10 @@ And, whenever applicable:
 Should you want to make the changes directly, make sure you include the additional information:
 * Brief description of what changes have been made and why, you can include more than one label
 
+#### Editing .csv files directly
+Currently, I compile the names of projects and their information in csv files, which you can find under `/data/*.csv`. After some time, I convert the .csv files into markdown tables and add them to the `README.md`. 
+> Note: GitHub offers this user-friendly .csv viewer. For changes the .csv, open a PR. 
+
 ### Hardware
 | Project   | Language (if applicable) | Link                                                |
 |-----------|--------------------------|-----------------------------------------------------|
