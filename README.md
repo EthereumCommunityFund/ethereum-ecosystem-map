@@ -16,8 +16,8 @@ For illustration purposes, the following is one of the first iterations of a tax
 ![Ethercosystem Taxonomy](https://github.com/EthereumCommunityFund/ethereum-ecosystem-map/blob/master/figures/ethercosystem.png)
 
 ## Frequently Visited Sources
-[1]: https://github.com/ethereum/wiki/wiki "Ethereum Wiki"
-[2]: https://ethresear.ch/latest "ETH Research"
+* Ethereum Wiki: https://github.com/ethereum/wiki/wiki
+* ETH Research: https://ethresear.ch/latest
 
 ## Table of Contents
 0. [How to Contribute?](#how-to-contribute)
@@ -35,9 +35,26 @@ For illustration purposes, the following is one of the first iterations of a tax
 12. [Off-Chain Utilities](#off-chain-utilities)
 
 ### How to Contribute?
+Should you know of any projects that are not yet listed or suggest a correction, choose one of the following. Depending on the contributions, there best way of proceeding are:
+* Error reporting: GitHub Issue, PRs
+* Listing new project: GitHub Issue, PRs
+* Making suggestions: GitHub Issue
+* Questions: GitHub Issue
+
+Either way, make sure you include the following information:
+* Add a label: `error` for corrections, `new project` for additions
+* Assign it to me @awasunyin, if this issue has not been dealt with within 7 natural days
+And, whenever applicable:
+* Project name
+* Project implementation language
+* Project link to GitHub (must be open-source, if code is not ready, at least some documentation or specifications)
+* Which layer? See taxonomy figure. 
+
+#### Create a Pull Request
+Should you want to make the changes directly, make sure you include the additional information:
+* Brief description of what changes have been made and why, you can include more than one label
 
 ### Hardware
-Any development or research concerning hardware and hardware software.
 | Project   | Language (if applicable) | Link                                                |
 |-----------|--------------------------|-----------------------------------------------------|
 | CPU Miner | C++                      | https://github.com/ethereum/go-ethereum/wiki/Mining |
