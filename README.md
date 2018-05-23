@@ -24,15 +24,16 @@ For illustration purposes, the following is one of the first iterations of a tax
 1. [Hardware](#hardware)
 2. [Networking](#networking)
 3. [Consensus](#consensus)
-4. [Deterministic State Machines](#deterministic-state-machines)
+4. [Scaling](#scaling)
 5. [Interoperability](#interoperability)
-6. [Usability](#usability)
-7. [Development Infrastructure](#development-infrastructure)
-8. [Development Tooling](#development-tooling)
-9. [Application Specific Protocols](#application-specific-protocols)
-10. [Wallets & Account management](#wallets-and-account-management)
-11. [End User Applications](#end-user-applications)
-12. [Off-Chain Utilities](#off-chain-utilities)
+6. [Deterministic State Machines](#deterministic-state-machines)
+7. [Usability](#usability)
+8. [Development Infrastructure](#development-infrastructure)
+9. [Development Tooling](#development-tooling)
+10. [Application Specific Protocols](#application-specific-protocols)
+11. [Wallets & Account management](#wallets-and-account-management)
+12. [End User Applications](#end-user-applications)
+13. [Off-Chain Utilities](#off-chain-utilities)
 
 ### How to Contribute?
 Should you know of any projects that are not yet listed or suggest a correction, choose one of the following. Depending on the contributions, there best way of proceeding are:
@@ -75,6 +76,16 @@ Currently, I compile the names of projects and their information in csv files, w
 | Casper (PoS) | ?        | https://github.com/ethereum/wiki/wiki/Casper-Proof-of-Stake-compendium     |
 | Sharding     | ?        | https://github.com/ethereum/wiki/wiki/Sharding-introduction-R&D-compendium |
 
+### Scaling
+| Project                 | Language   | Link                                                                       |
+|-------------------------|------------|----------------------------------------------------------------------------|
+| Plasma Cash             | Python     | https://github.com/omisego/plasma-cash                                                                           |
+| FourthState Labs Plasma | Go         | https://github.com/FourthState/plasma-mvp-sidechain                        |
+| Voiltaire Labs Plasma   | JavaScript | https://github.com/voltairelabs/plasma                                     |
+| Sharding                | ?          | https://github.com/ethereum/wiki/wiki/Sharding-introduction-R&D-compendium |
+
+### Interoperability
+
 ### Deterministic State Machines
 | Project       | Language    | Link                                         |
 |---------------|-------------|----------------------------------------------|
@@ -89,7 +100,6 @@ Currently, I compile the names of projects and their information in csv files, w
 | sputter       | clojure     | https://github.com/nervous-systems/sputter   |
 | eWASM kernel  | javascript  | https://github.com/ewasm/ewasm-kernel        |
 
-### Interoperability
 
 ### Usability
 | Project       | Language   | Link                                        |
