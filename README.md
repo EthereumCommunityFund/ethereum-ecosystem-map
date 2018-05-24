@@ -112,6 +112,13 @@ Currently, I compile the names of projects and their information in csv files, w
 
 ### Development Infrastructure
 
+| Project   | Link                       | 
+|-----------|----------------------------| 
+| Etherscan | https://etherscan.io/      | 
+| Infura    | https://infura.io/         | 
+| Supermax  | https://www.supermax.cool/ | 
+
+
 ### Development Tooling
 | Project       | Language     | Link                                        | 
 |---------------|--------------|---------------------------------------------| 
