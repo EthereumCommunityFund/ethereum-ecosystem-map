@@ -113,6 +113,20 @@ Currently, I compile the names of projects and their information in csv files, w
 ### Development Infrastructure
 
 ### Development Tooling
+| Project       | Language     | Link                                        | 
+|---------------|--------------|---------------------------------------------| 
+| Web3.js       | Javascript   | https://github.com/ethereum/web3.js/        | 
+| Ethers.js     | Javascript   | https://github.com/ethers-io/ethers.js/     | 
+| Truffle       | ?            | http://truffleframework.com/                | 
+| Remix IDE     | ?            | https://remix.ethereum.org/                 | 
+| 0x.js         | Javascript   | https://0xproject.com/docs/0xjs             | 
+| testrpc       | ?            | https://github.com/trufflesuite/ganache-cli | 
+| GitPivot      | Solidity     | https://github.com/status-im/gitpivot       | 
+| Solium Linter | Javascript   | https://github.com/duaraghav8/Solium        | 
+| Solidity      | Solidity     | https://github.com/ethereum/solidity        | 
+| Flint         | Flint        | https://github.com/franklinsch/flint        | 
+| Vyper         | Vyper/Python | https://github.com/ethereum/vyper           | 
+
 
 ### Application Specific Protocols
 
