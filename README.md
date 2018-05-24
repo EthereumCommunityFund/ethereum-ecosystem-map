@@ -138,6 +138,12 @@ Currently, I compile the names of projects and their information in csv files, w
 ### Application Specific Protocols
 
 ### Wallets and Account Management
+| Project     | Link                        | 
+|-------------|-----------------------------| 
+| MyCrypto    | https://mycrypto.com/       | 
+| TrustWallet | https://trustwalletapp.com/ | 
+| Vault       | http://vault.io/            | 
+| Balance     | https://balance.io/         | 
 
 ### End User Applications
 
