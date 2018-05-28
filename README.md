@@ -15,10 +15,6 @@ For illustration purposes, the following is one of the first iterations of a tax
 
 ![Ethercosystem Taxonomy](https://github.com/EthereumCommunityFund/ethereum-ecosystem-map/blob/master/figures/ethercosystem.png)
 
-## Frequently Visited Sources
-* Ethereum Wiki: https://github.com/ethereum/wiki/wiki
-* ETH Research: https://ethresear.ch/latest
-
 ## Table of Contents
 0. [How to Contribute?](#how-to-contribute)
 1. [Hardware](#hardware)
@@ -79,12 +75,17 @@ Currently, I compile the names of projects and their information in csv files, w
 ### Scaling
 | Project                 | Language   | Link                                                                       |
 |-------------------------|------------|----------------------------------------------------------------------------|
-| Plasma Cash             | Python     | https://github.com/omisego/plasma-cash                                                                           |
+| Plasma Cash             | Python     | https://github.com/omisego/plasma-cash                                     |
 | FourthState Labs Plasma | Go         | https://github.com/FourthState/plasma-mvp-sidechain                        |
+| BANKEX                  | JavaScript | https://github.com/BankEx                                                  |
+| Truebit                 | C++        | https://github.com/mrsmkl/truebit-plasma                                   |
 | Voiltaire Labs Plasma   | JavaScript | https://github.com/voltairelabs/plasma                                     |
 | Sharding                | ?          | https://github.com/ethereum/wiki/wiki/Sharding-introduction-R&D-compendium |
 
 ### Interoperability
+| Project       | Language    | Link                                         |
+|---------------|-------------|----------------------------------------------|
+|               |             |                                              |
 
 ### Deterministic State Machines
 | Project       | Language    | Link                                         |
@@ -136,6 +137,10 @@ Currently, I compile the names of projects and their information in csv files, w
 
 
 ### Application Specific Protocols
+| Project       | Language     | Link                                        | 
+|---------------|--------------|---------------------------------------------| 
+| 0x            | TypeScript   | https://github.com/0xProject/0x-monorepo    | 
+| Livepeer      | Go           | https://github.com/livepeer/go-livepeer     |
 
 ### Wallets and Account Management
 | Project     | Link                        | 
@@ -146,5 +151,15 @@ Currently, I compile the names of projects and their information in csv files, w
 | Balance     | https://balance.io/         | 
 
 ### End User Applications
+| Project       | Language    | Link                                         |
+|---------------|-------------|----------------------------------------------|
+|               |             |                                              |
 
 ### Off-Chain Utilities
+| Project       | Language    | Link                                         |
+|---------------|-------------|----------------------------------------------|
+|               |             |                                              |
+
+## Frequently Visited Sources
+* Ethereum Wiki: https://github.com/ethereum/wiki/wiki
+* ETH Research: https://ethresear.ch/latest
