@@ -70,6 +70,7 @@ Currently, I compile the names of projects and their information in csv files, w
 | Project      | Language | Link                                                                       |
 |--------------|----------|----------------------------------------------------------------------------|
 | Casper (PoS) | ?        | https://github.com/ethereum/wiki/wiki/Casper-Proof-of-Stake-compendium     |
+| Casper CBC   | ?        | -    |
 | Sharding     | ?        | https://github.com/ethereum/wiki/wiki/Sharding-introduction-R&D-compendium |
 
 ### Scaling
@@ -79,7 +80,11 @@ Currently, I compile the names of projects and their information in csv files, w
 | FourthState Labs Plasma | Go         | https://github.com/FourthState/plasma-mvp-sidechain                        |
 | BANKEX                  | JavaScript | https://github.com/BankEx                                                  |
 | Truebit                 | C++        | https://github.com/mrsmkl/truebit-plasma                                   |
-| Voiltaire Labs Plasma   | JavaScript | https://github.com/voltairelabs/plasma                                     |
+| Voltaire Labs Plasma    | JavaScript | https://github.com/voltairelabs/plasma                                     |
+| Ethereum Plasma         | JavaScript | https://github.com/ethereum-plasma/plasma                                  |
+| Parsec Labs             | JavaScript | https://github.com/parsec-labs/plasma-contracts                            |
+| Lucidity Plasma         | Solidity   | https://github.com/luciditytech/lucidity-plasma                            |
+| Ethereum Plasma         | JavaScript | https://github.com/ethereum-plasma/plasma                                  |
 | Sharding                | ?          | https://github.com/ethereum/wiki/wiki/Sharding-introduction-R&D-compendium |
 
 ### Interoperability
