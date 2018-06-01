@@ -3,8 +3,10 @@ This repository is dedicated to collect and display resources that contribute to
 
 ## Background & Motivations
 Sometimes, for both newcomers and seniors of the Ethereum community, it can be hard to keep track of the latest advances, as well as the latest conversations concerning research. At the same time, the community lacks access to a data-driven, objective mapping of the Ethereum ecosystem. 
+
 From the ECF's perspective, we wish to build automated or semi-automated tools that
 provide an objective overview of the state of the ecosystem, so community members can see in what layers, areas or tooling Ethereum is lacking. 
+
 For grant managers at the ECF, this overview can be helpful for prioritising research and development in those areas that are essential but less attractive, distribute funding in a balanced manner, and strive for diversity of projects vertically along the stack, and horizontally, in terms of implementations. 
 
 ## Taxonomy (V.0.2)
@@ -73,6 +75,7 @@ Currently, I compile the names of projects and their information in csv files, w
 | Casper CBC   | ?        | -    |
 | Sharding     | ?        | https://github.com/ethereum/wiki/wiki/Sharding-introduction-R&D-compendium |
 
+
 ### Scaling
 | Project                 | Language   | Link                                                                       |
 |-------------------------|------------|----------------------------------------------------------------------------|
@@ -86,6 +89,11 @@ Currently, I compile the names of projects and their information in csv files, w
 | Lucidity Plasma         | Solidity   | https://github.com/luciditytech/lucidity-plasma                            |
 | Ethereum Plasma         | JavaScript | https://github.com/ethereum-plasma/plasma                                  |
 | Sharding                | ?          | https://github.com/ethereum/wiki/wiki/Sharding-introduction-R&D-compendium |
+| Prysmatic Labs (Geth Sharding)| Go       | https://github.com/prysmaticlabs/geth-sharding |
+| Ethereum Sharding | Python/Vyper       | https://github.com/ethereum/sharding |
+
+
+
 
 ### Interoperability
 | Project       | Language    | Link                                         |
@@ -139,6 +147,7 @@ Currently, I compile the names of projects and their information in csv files, w
 | Solidity      | Solidity     | https://github.com/ethereum/solidity        | 
 | Flint         | Flint        | https://github.com/franklinsch/flint        | 
 | Vyper         | Vyper/Python | https://github.com/ethereum/vyper           | 
+| Gnarly         | ? | https://github.com/XLNT/gnarly           | 
 
 
 ### Application Specific Protocols
