@@ -110,9 +110,9 @@ Currently, I compile the names of projects and their information in csv files, w
 | K Framework   | K framework | https://github.com/kframework/evm-semantics  |
 | hevm          | haskell     | https://github.com/dapphub/hevm              |
 | Burrow        | go          | https://github.com/hyperledger/burrow        |
-| Ethereumjs-VM | javascript  | https://github.com/ethereumjs/ethereumjs-vm  |
+| Ethereumjs-VM | Javascript  | https://github.com/ethereumjs/ethereumjs-vm  |
 | sputter       | clojure     | https://github.com/nervous-systems/sputter   |
-| eWASM kernel  | javascript  | https://github.com/ewasm/ewasm-kernel        |
+| eWASM kernel  | Javascript  | https://github.com/ewasm/ewasm-kernel        |
 
 
 ### Usability
@@ -138,16 +138,16 @@ Currently, I compile the names of projects and their information in csv files, w
 |---------------|--------------|---------------------------------------------| 
 | Web3.js       | Javascript   | https://github.com/ethereum/web3.js/        | 
 | Ethers.js     | Javascript   | https://github.com/ethers-io/ethers.js/     | 
-| Truffle       | ?            | http://truffleframework.com/                | 
+| Truffle       | Javascript   | http://truffleframework.com/                | 
 | Remix IDE     | ?            | https://remix.ethereum.org/                 | 
-| 0x.js         | Javascript   | https://0xproject.com/docs/0xjs             | 
-| testrpc       | ?            | https://github.com/trufflesuite/ganache-cli | 
+| 0x.js         | Typescript   | https://0xproject.com/docs/0xjs             | 
+| ganache       | Javascript   | https://github.com/trufflesuite/ganache-cli | 
 | GitPivot      | Solidity     | https://github.com/status-im/gitpivot       | 
 | Solium Linter | Javascript   | https://github.com/duaraghav8/Solium        | 
 | Solidity      | Solidity     | https://github.com/ethereum/solidity        | 
 | Flint         | Flint        | https://github.com/franklinsch/flint        | 
 | Vyper         | Vyper/Python | https://github.com/ethereum/vyper           | 
-| Gnarly         | ? | https://github.com/XLNT/gnarly           | 
+| Gnarly        | Typescript   | https://github.com/XLNT/gnarly              | 
 
 
 ### Application Specific Protocols
@@ -161,7 +161,7 @@ Currently, I compile the names of projects and their information in csv files, w
 |-------------|-----------------------------| 
 | MyCrypto    | https://mycrypto.com/       | 
 | TrustWallet | https://trustwalletapp.com/ | 
-| Vault       | http://vault.io/            | 
+| Vault       | https://vault.io/            | 
 | Balance     | https://balance.io/         | 
 
 ### End User Applications
